@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reduxtoolkitshopcart/static/css/main.f6b0468a.css",
+    "main.js": "/reduxtoolkitshopcart/static/js/main.b2b68f27.js",
+    "static/js/787.43483a82.chunk.js": "/reduxtoolkitshopcart/static/js/787.43483a82.chunk.js",
+    "static/media/logo.svg": "/reduxtoolkitshopcart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reduxtoolkitshopcart/index.html",
+    "main.f6b0468a.css.map": "/reduxtoolkitshopcart/static/css/main.f6b0468a.css.map",
+    "main.b2b68f27.js.map": "/reduxtoolkitshopcart/static/js/main.b2b68f27.js.map",
+    "787.43483a82.chunk.js.map": "/reduxtoolkitshopcart/static/js/787.43483a82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b0468a.css",
+    "static/js/main.b2b68f27.js"
+  ]
+}
